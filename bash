@@ -1,5 +1,5 @@
 #!/bin/bash
-for file in /home/person_practice/*
+for file in /home/personal_practice/*
 do
 	echo "#!/bin/bash" > ${file}
 done
