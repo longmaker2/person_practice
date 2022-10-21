@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+# the code below prints Hello coursera and welcome to coursera + [name]
+print ("Hello Coursera")
+name = "Long"
+print ("Welcome to Coursera " + name)
